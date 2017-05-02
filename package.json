@@ -1,5 +1,5 @@
 {
-  "name": "egg-bin",
+  "name": "nodinx-bin",
   "version": "3.3.2",
   "description": "egg developer tool",
   "main": "index.js",
@@ -42,9 +42,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eggjs/egg-bin.git"
+    "url": "https://github.com/nodinx/nodinx-bin.git"
   },
-  "homepage": "https://github.com/eggjs/egg-bin",
+  "homepage": "https://github.com/nodinx/nodinx-bin",
   "author": "fengmk2 <fengmk2@gmail.com> (https://fengmk2.com)",
   "scripts": {
     "lint": "eslint .",
