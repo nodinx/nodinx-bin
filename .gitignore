@@ -7,3 +7,5 @@ test/fixtures/demo-app/node_modules/aliyun-egg/node_modules/
 .tmp
 .vscode
 *.log
+yarn.lock
+yarn-error.log
