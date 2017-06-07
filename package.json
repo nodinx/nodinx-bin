@@ -1,6 +1,6 @@
 {
   "name": "nodinx-bin",
-  "version": "3.3.6",
+  "version": "3.3.7",
   "description": "egg developer tool",
   "main": "index.js",
   "bin": {
